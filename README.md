@@ -20,15 +20,23 @@ Lightning-fast Vercel deployment and CI
 
 ## 🖥️ Screenshots
 
-![Home page](<Screenshot 2025-10-11 213456.png>)
+### Home pagee 
+![Home page](./public/Screenshot 2025-10-11 213456.png>)
 
-![Dashboard](<Screenshot 2025-10-17 223531.png>)
+### Dashboard 
+![Dashboard](./public/Screenshot 2025-10-17 223531.png)
 
-![chart of 2022](<Screenshot 2025-10-17 223545.png>)
+### chart of 2022
+![chart of 2022](./public/Screenshot 2025-10-17 223545.png)
 
-![chart of 2023](<Screenshot 2025-10-17 223558-1.png>)
-![chart of 2023 (2)](<Screenshot 2025-10-17 223612.png>)
-![chart of 2024](<Screenshot 2025-10-17 223713.png>)
+### chart of 2023
+![chart of 2023](./public/Screenshot 2025-10-17 223558-1.png)
+
+### chart of 2023(2)
+![chart of 2023 (2)](./public/Screenshot 2025-10-17 223612.png)
+
+### chart of 2023
+![chart of 2024](./public/Screenshot 2025-10-17 223713.png)
 ## 🛠️ Tech Stack
 Framework: Next.js 15
 
