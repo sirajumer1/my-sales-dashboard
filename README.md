@@ -1,23 +1,24 @@
 :
-
 ## 📊 Sales Dashboard
-A sleek, interactive sales dashboard built with Next.js, TypeScript, Recharts, and modern CSS. Visualize and filter sales trends from 2022–2024 with beautiful charts. Deployed live, responsive, and optimized for usability
 
-## 🚀 Live Demo
-Live App:  https://my-sales-dashboard-git-main-sirajumer1s-projects.vercel.app
+A sleek, interactive sales dashboard built with Next.js, TypeScript, Recharts, and modern CSS. Visualize and filter sales trends from 2022–2024 with beautiful charts. Deployed live, responsive, and optimized for usability.
 
+---
+
+| [🚀 Live Demo](https://my-sales-dashboard-git-main-sirajumer1s-projects.vercel.app) | [GitHub Repo](https://github.com/sirajumer1/my-sales-dashboard) |
+| --- | --- |
+
+---
 
 ## 📚 Features
-Interactive Bar Charts with filtering by year and sales threshold
 
-Elegant, modern UI with gradients, glass effects, and card layouts
+- Interactive Bar Charts with year/sales threshold filtering
+- Elegant, modern UI with gradients, glassmorphism, and cards
+- Responsive and mobile-friendly design
+- Built with Next.js 15 (App Router) and TypeScript
+- Lightning-fast Vercel deployment and CI
 
-Responsive and mobile-friendly design
-
-Fully built with Next.js 15 (App Router) and TypeScript
-
-Lightning-fast Vercel deployment and CI
-
+---
 ## 🖥️ Screenshots
 
 ### Home pagee 
@@ -37,19 +38,20 @@ Lightning-fast Vercel deployment and CI
 
 ### chart of 2023
 ![chart of 2024](public/screenshots/Screenshot-2025-10-17-223713.png)
+
+
 ## 🛠️ Tech Stack
-Framework: Next.js 15
 
-Language: TypeScript
+- **Framework**: Next.js 15
+- **Language**: TypeScript
+- **Charts**: Recharts
+- **Styling**: Modern CSS with gradients and effects
+- **Deployment**: Vercel
 
-Charts: Recharts
-
-Styling: Modern CSS with gradients and effects
-
-Deployment: Vercel
+---
 
 ## 📂 Project Structure
-
+<pre>
 Dashboard  |  Year/Threshold Controls
 -----------+-------------------------
            |                         
@@ -69,17 +71,19 @@ my-sales-dashboard/
 ├── public/
 │   └── screenshots/
 └── README.md
+</pre>
 
+---
 
-## Getting Started
+## 🚦 Getting Started
 
-Prerequisites
+### Prerequisites
 
-Node.js 18+
+- Node.js 18+
+- npm or yarn
 
-npm or yarn
+### Installation
 
-## Installation
 
 git clone https://github.com/sirajumer1/my-sales-dashboard.git
 
@@ -87,30 +91,31 @@ cd my-sales-dashboard
 
 npm install
 
-## Devlopment
+### Devlopment
 
 npm run dev
 
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
 ## 🔗 Links
 
-Vercel Deployment :-  https://my-sales-dashboard-git-main-sirajumer1s-projects.vercel.app
+- **Live Demo**: [Visit here](https://my-sales-dashboard-git-main-sirajumer1s-projects.vercel.app)
+- **GitHub Repo**: [sirajumer1/my-sales-dashboard](https://github.com/sirajumer1/my-sales-dashboard)
 
-
-GitHub Repo - https:_ //github.com/sirajumer1/my-sales-dashboard
+---
 
 ## ✨ Credits
 
-Next.js for the powerful SSR framework
+- [Next.js](https://nextjs.org/) for SSR and app structure
+- [Recharts](https://recharts.org/) for beautiful chart visualizations
+- [Vercel](https://vercel.com/) for deployment
 
-Recharts for elegant chart visualizations
+---
 
-Vercel for simple and fast deployment
-Open http://localhost:3000 to view it in the browser.
+## Learn More
 
-## Learn more
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Edit the homepage at `app/page.tsx`. The project auto-updates on edit.
+- Uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) for [Geist](https://vercel.com/font).
 
