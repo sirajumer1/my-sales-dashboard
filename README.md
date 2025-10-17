@@ -70,6 +70,7 @@ my-sales-dashboard/
 │   └── screenshots/
 └── README.md
 
+
 ## Getting Started
 
 Prerequisites
