@@ -22,16 +22,16 @@ A sleek, interactive sales dashboard built with Next.js, TypeScript, Recharts, a
 ## 🖥️ Screenshots
 
 ### Home pagee 
-![Home page](public/screenshots/Screenshot 2026-01-22 130109.png)
+![Home page](./public/screenshots/home-page.png)
 
 ### chart of 2023
-![chart of 2024](public/screenshots/Screenshot 2026-01-22 130346.png
+![chart of 2023](./public/screenshots/chart-2023.png)
 
 ### dashboard page 
-![dashbaord  of 2024 (2)](public/screenshots/Screenshot 2026-01-22 130317.png)
+![dashboard page](./public/screenshots/dashboard-page.png)
 
 ### chart of 2024
-![chart of 2024](public/screenshots/Screenshot 2026-01-22 130501.png)
+![chart of 2024](./public/screenshots/chart-2024.png)
 
 
 ## 🛠️ Tech Stack
